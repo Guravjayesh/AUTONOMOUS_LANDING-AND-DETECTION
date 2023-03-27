@@ -3,7 +3,7 @@
 
 # Tensorflow Object Detection for autonomous drone landing
 
-I had the privilege of participating in a project that was led by our 4th year seniors when I was in my 2nd year of studies. As a student in the AIML branch, a new branch at that time, I was given the opportunity to join the Challengers team due to my knowledge in computer vision, deep learning, and machine learning. In this project, I focused on the drone object detection component.
+I had the privilege of participating in a project that was led by our 4th year seniors when I was in my 2nd year of studies. As a student in the AIML branch, a new branch at that time, I was given the opportunity to join the Challengers team due to my learning and knowledge in computer vision, deep learning, and machine learning. In this project, I focused on the drone object detection component.
 
 I would like to express my sincere thanks to Nicholas Renoutoo, whose concise tutorials on TensorFlow object detection enabled me to learn the technique and achieve the outcome.
 
