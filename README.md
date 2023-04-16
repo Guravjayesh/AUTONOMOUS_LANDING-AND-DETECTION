@@ -14,3 +14,5 @@ The Autonomous Drone Detection and Landing System is an AI-powered project that 
 
 it consists of a network of sensors and cameras installed in the targeted airspace. These sensors and cameras are equipped with  algorithm that can identify the drones and track their movements in real-time. Once a drone is detected, the system will initiate the landing process, directing the drone to a designated landing pad or a specific location based on predetermined coordinates.
 Using TensorFlow, the system can accurately identify and track the drone's movements in real-time
+
+jupter kernel venvironmentj
