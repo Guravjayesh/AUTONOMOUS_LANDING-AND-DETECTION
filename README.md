@@ -3,7 +3,7 @@
 
 # Tensorflow Object Detection for autonomous drone landing
 
-I had the honor of being involved in a project under the guidance of experienced Seniors. I was fortunate to join the esteemed Challengers team, where I had the opportunity to enhance my knowledge in the fields of computer vision, deep learning, and machine learning as an aspiring Artificial Intelligence and Machine Learning (AIML) specialist in the Computer Science and Engineering (CSE) domain.
+I had the honor of being involved in a project under the guidance of experienced Seniors. I was fortunate to join the esteemed Challengers team, where I had the opportunity to enhance my knowledge in the fields of computer vision, deep learning, and machine learning as an aspiring AIML student in the Computer Science and Engineering (CSE) domain.
 
 During this project, my primary focus was on object detection, specifically aiming to detect drones using the TensorFlow framework. The ultimate objective of the project was to accurately identify and mark the drones' locations, facilitating autonomous landing procedures.
 
