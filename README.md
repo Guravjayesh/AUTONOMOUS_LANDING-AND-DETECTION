@@ -20,7 +20,11 @@ Using TensorFlow, the system can accurately identify and track the drone's movem
 
 
 
-https://github.com/Guravjayesh/AUTONOMOUS_LANDING-AND-DETECTION/assets/88273868/e4e4566c-5fc2-4037-b230-6907534a5ebf
+
+
+
+https://github.com/Guravjayesh/AUTONOMOUS_LANDING-AND-DETECTION/assets/88273868/86f0f79f-b13c-4bf2-9fdd-73122b2d3356
+
 
 
 
